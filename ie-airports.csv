@@ -1,0 +1,115 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+2533,EIDW,large_airport,Dublin Airport,53.421299,-6.27007,242,EU,Ireland,IE,County Dublin,IE-D,D,Dublin,1,EIDW,DUB,,http://www.dublinairport.com/,https://en.wikipedia.org/wiki/Dublin_Airport,Aerfort Bhaile Átha Cliath,1014475,2018-07-19T09:23:39+00:00
+2537,EINN,large_airport,Shannon Airport,52.702,-8.92482,46,EU,Ireland,IE,County Clare,IE-CE,CE,Shannon,1,EINN,SNN,,http://www.shannonairport.com/,https://en.wikipedia.org/wiki/Shannon_Airport,,1275,2019-01-15T07:31:08+00:00
+2530,EICK,medium_airport,Cork Airport,51.841301,-8.49111,502,EU,Ireland,IE,County Cork,IE-C,C,Cork,1,EICK,ORK,,http://www.corkairport.com/,https://en.wikipedia.org/wiki/Cork_Airport,Aerfort Chorcaí,750,2021-11-22T14:14:40+00:00
+2531,EICM,medium_airport,Galway Airport,53.300201416015600,-8.941590309143070,81,EU,Ireland,IE,County Galway,IE-G,G,Galway,1,EICM,GWY,,http://www.galwayairport.com/,https://en.wikipedia.org/wiki/Galway_Airport,,750,2009-02-15T11:28:05+00:00
+2535,EIKY,medium_airport,Kerry Airport,52.180901,-9.52378,112,EU,Ireland,IE,County Kerry,IE-KY,KY,Killarney,1,EIKY,KIR,,http://www.kerryairport.ie/,https://en.wikipedia.org/wiki/Kerry_Airport,,750,2021-10-29T10:43:31+00:00
+2539,EIWF,medium_airport,Waterford Airport,52.187198638916000,-7.0869598388671900,119,EU,Ireland,IE,County Waterford,IE-WD,WD,Waterford,1,EIWF,WAT,,http://flywaterford.com/,https://en.wikipedia.org/wiki/Waterford_Airport,,750,2009-02-15T22:12:02+00:00
+2534,EIKN,medium_airport,Ireland West Knock Airport,53.910301,-8.81849,665,EU,Ireland,IE,County Mayo,IE-MO,MO,Charlestown,1,EIKN,NOC,,http://www.irelandwestairport.com/,https://en.wikipedia.org/wiki/Ireland_West_Airport_Knock,Connaught,750,2021-04-27T17:05:29+00:00
+29221,EIIM,small_airport,Inishmore Aerodrome,53.1067008972168,-9.653610229492190,24,EU,Ireland,IE,County Galway,IE-G,G,Inis Mór,1,EIIM,IOR,,,https://en.wikipedia.org/wiki/Inishmore_Aerodrome,Aran Islands,150,2009-02-15T11:38:04+00:00
+27309,EICA,small_airport,Connemara Regional Airport,53.23030090332030,-9.467780113220220,70,EU,Ireland,IE,County Galway,IE-G,G,Inverin,1,EICA,NNR,,http://www.aerarannislands.ie/,https://en.wikipedia.org/wiki/Aerfort_na_Minna,"Aerfort na Minna, Indreabhán",150,2009-04-07T13:05:55+00:00
+27310,EIWT,medium_airport,Weston Airport,53.3521995544,-6.48611021042,150,EU,Ireland,IE,County Kildare,IE-KE,KE,Leixlip,0,EIWT,,,http://www.westonairport.com/,https://en.wikipedia.org/wiki/Weston_Airport,Dublin,250,2010-01-22T17:41:50+00:00
+29213,EIAB,small_airport,Abbeyshrule Aerodrome,53.59170150756840,-7.645559787750240,195,EU,Ireland,IE,County Longford,IE-LD,LD,Abbeyshrule,0,EIAB,,,,https://en.wikipedia.org/wiki/Abbeyshrule_Aerodrome,,50,2009-04-07T13:05:59+00:00
+2532,EIDL,medium_airport,Donegal Airport,55.0442008972168,-8.340999603271480,30,EU,Ireland,IE,County Donegal,IE-DL,DL,Donegal,1,EIDL,CFN,,http://www.donegalairport.ie/,https://en.wikipedia.org/wiki/Donegal_Airport,Gweedore,750,2009-02-15T11:09:37+00:00
+2538,EISG,medium_airport,Sligo Airport,54.280200958252,-8.5992097854614,11,EU,Ireland,IE,County Sligo,IE-SO,SO,Sligo,0,EISG,SXL,,http://www.sligoairport.com/,https://en.wikipedia.org/wiki/Sligo_Airport,,750,2015-08-04T01:22:25+00:00
+29215,EIBR,small_airport,Birr Aerodrome,53.07059860229490,-7.898330211639400,250,EU,Ireland,IE,County Offaly,IE-OY,OY,Birr,0,EIBR,,,http://www.ormandflyingclub.com/,https://en.wikipedia.org/wiki/Birr_Aerodrome,Biorra,50,2009-02-15T10:48:47+00:00
+29218,EICL,small_airport,Clonbullogue Aerodrome,53.249656677246100,-7.122745513916020,240,EU,Ireland,IE,County Offaly,IE-OY,OY,Clonbullogue,0,EICL,,,http://www.skydive.ie/about/location.html,https://en.wikipedia.org/wiki/Clonbullogue_Aerodrome,,50,2009-02-15T10:53:05+00:00
+2536,EIME,medium_airport,Casement Air Base,53.301700592,-6.451330184940000,319,EU,Ireland,IE,County Dublin,IE-D,D,Baldonnel,0,EIME,,,,https://en.wikipedia.org/wiki/Casement_Aerodrome,RAF Baldonnel,250,2012-11-16T13:40:01+00:00
+29222,EIIR,small_airport,Inisheer Aerodrome,53.064701,-9.5109,40,EU,Ireland,IE,County Galway,IE-G,G,Inis Oírr,1,EIIR,INQ,,,https://en.wikipedia.org/wiki/Inisheer_Aerodrome,Aran Islands,150,2021-07-31T16:41:20+00:00
+321990,IE-0046,small_airport,Clonakilty Airstrip,51.6258872,-8.916197,,EU,Ireland,IE,County Cork,IE-C,C,,0,,,,,,,50,2017-01-28T08:14:44+00:00
+321138,IE-0015,small_airport,Ruskey Airstrip,54.8405299,-7.6547115,,EU,Ireland,IE,County Donegal,IE-DL,DL,,0,,,,http://www.RuskeyAirfield.com,,,50,2016-11-12T06:20:41+00:00
+321139,IE-0016,small_airport,Drumavish Airstrip,54.78812,-7.724356,,EU,Ireland,IE,County Donegal,IE-DL,DL,,0,,,,,,,50,2016-11-12T06:22:11+00:00
+324511,IE-0052,small_airport,Lough Sheelin Airstrip,53.7964,-7.28455,,EU,Ireland,IE,County Cavan,IE-CN,CN,Aghnaskeagh,0,,,,,,,50,2017-07-23T00:27:33+00:00
+43997,EIMH,small_airport,Athboy Airfield,53.637779,-6.878611,230,EU,Ireland,IE,County Meath,IE-MH,MH,Athboy,0,EIMH,,,,,,50,2021-05-15T05:36:53+00:00
+333213,IE-0057,small_airport,Ellistown Airstrip,53.5364,-6.2593,,EU,Ireland,IE,County Dublin,IE-D,D,Ballyboughal,0,,,,,,,50,2021-04-27T17:28:07+00:00
+321724,IE-0043,small_airport,Whites Airstrip,53.66317,-8.63488,,EU,Ireland,IE,County Galway,IE-G,G,Ballymaglancy,0,,,,,,,50,2021-04-27T17:06:16+00:00
+333195,IE-0053,small_airport,Carstown Ultralight Airstrip,53.7668,-6.3257,,EU,Ireland,IE,County Meath,IE-MH,MH,Ballymakenny,0,,,,,,,50,2021-04-27T17:30:14+00:00
+333196,IE-0054,small_airport,Craughwell Airfield,53.2461,-8.688,,EU,Ireland,IE,County Galway,IE-G,G,Ballynageeragh,0,,,,,,,50,2020-02-08T02:15:18+00:00
+321594,IE-0037,small_airport,Gay Tracy Airstrip,52.991607,-7.892731,230,EU,Ireland,IE,County Offaly,IE-OY,OY,Brosna,0,,,,,,,50,2021-04-27T17:15:50+00:00
+321140,IE-0017,small_airport,Coulters Airstrip,54.82439,-7.62959,,EU,Ireland,IE,County Donegal,IE-DL,DL,Carnowen,0,,,,,,,50,2020-02-08T02:21:03+00:00
+321137,IE-0014,small_airport,Finn Valley Airfield UL,54.846529,-7.658548,,EU,Ireland,IE,County Donegal,IE-DL,DL,Carrickbrack,0,,,,http://www.finnvalleyflyingclub.com,,,50,2020-02-08T02:22:50+00:00
+319345,IE-0008,small_airport,Lough Conn Airstrip,54.044059,-9.216109,,EU,Ireland,IE,County Mayo,IE-MO,MO,Cloghans,0,,,,,,,50,2021-04-27T17:07:25+00:00
+321540,IE-0035,small_airport,Taggarts Airstrip,53.449002,-7.04799,,EU,Ireland,IE,County Meath,IE-MH,MH,Clonard,0,,,,,,,50,2021-04-27T17:31:58+00:00
+321136,IE-0013,small_airport,Ashfield - Russell's field UL,54.989617,-7.738113,,EU,Ireland,IE,County Donegal,IE-DL,DL,Coolboy Little,0,,,,,,,50,2020-02-09T03:43:11+00:00
+320772,IE-0012,small_airport,Ballinvally Farm Airstrip,52.5709,-6.31754,200,EU,Ireland,IE,County Westmeath,IE-WH,WH,Court,0,,,,,,,50,2021-04-27T17:40:41+00:00
+321483,IE-0034,small_airport,Ballyvalloo Airstrip,52.414439,-6.363058,,EU,Ireland,IE,County Wexford,IE-WX,WX,Enniscorthy,0,,,,,,,50,2021-04-27T17:42:01+00:00
+317046,IE-0005,small_airport,Eyne Airfield,53.082764,-7.277601,265,EU,Ireland,IE,County Laois,IE-LS,LS,Eyne,0,,,,,,Ridge Aviation,50,2016-02-20T14:26:40+00:00
+30992,EIBA,small_airport,Ballyboughal Aerodrome,53.5055556,-6.2377778,180,EU,Ireland,IE,County Dublin,IE-D,D,Fingal,0,EIBB,,,http://www.eibb.ie,,,50,2016-12-23T04:47:16+00:00
+322072,IE-0048,small_airport,Camus Airstrip,53.171468,-8.113414,,EU,Ireland,IE,County Galway,IE-G,G,Friarsland,0,,,,,,,50,2021-04-27T17:16:32+00:00
+321344,IE-0028,small_airport,Ballyboe Airstrip,52.383923,-7.618068,,EU,Ireland,IE,County Tipperary,IE-TA,TA,Gammonsfield,0,,,,,,,50,2021-04-27T17:45:46+00:00
+321685,IE-0041,small_airport,Warrens Airstrip,52.640212,-6.298816,,EU,Ireland,IE,County Wexford,IE-WX,WX,Gorey,0,,,,,,,50,2021-04-27T17:40:13+00:00
+342612,IE-0065,small_airport,Tobertaskin Airstrip,53.60988,-6.26595,,EU,Ireland,IE,County Dublin,IE-D,D,Grangemount,0,,,,,,,50,2021-04-02T06:59:52+00:00
+333395,IE-0063,small_airport,Lickfinn Airstrip,52.591353,-7.643436,,EU,Ireland,IE,County Tipperary,IE-TA,TA,Killenaule,0,,,,,,,50,2020-09-12T04:28:05+00:00
+320593,IE-0011,small_airport,Limetree Airfield,53.1155,-7.2443,210,EU,Ireland,IE,County Laois,IE-LS,LS,Limetree,0,,,,,,,50,2016-10-01T00:44:39+00:00
+321832,IE-0044,small_airport,Ballyvarry Airstrip,53.892707,-9.122479,,EU,Ireland,IE,County Mayo,IE-MO,MO,Loughkeeran,0,,,,,,,50,2021-04-27T17:06:39+00:00
+321596,IE-0038,small_airport,O'Loughlin Airstrip,53.17023,-7.019048,260,EU,Ireland,IE,County Kildare,IE-KE,KE,Monasterevin,0,,,,,,,50,2021-04-27T17:33:42+00:00
+333220,IE-0060,small_airport,Dunslaughlin Airstrip,53.5192,-6.6001,,EU,Ireland,IE,County Meath,IE-MH,MH,Moorestown,0,,,,,,,50,2020-02-09T08:20:00+00:00
+321320,IE-0025,small_airport,The Forge Airstrip,52.81052,-8.13732,,EU,Ireland,IE,County Tipperary,IE-TA,TA,Nenagh,0,,,,,,,50,2021-04-27T17:14:01+00:00
+321343,IE-0027,small_airport,Allenwood Airstrip,53.267785,-6.839772,,EU,Ireland,IE,County Kildare,IE-KE,KE,Robertstown,0,,,,,,,50,2021-04-27T17:23:31+00:00
+321723,IE-0042,small_airport,Laytown Airstrip,53.690727,-6.272178,,EU,Ireland,IE,County Meath,IE-MH,MH,Sevitsland,0,,,,,,,50,2021-04-27T17:29:21+00:00
+321611,IE-0040,small_airport,Dorans Airstrip,53.51968,-7.67858,,EU,Ireland,IE,County Westmeath,IE-WH,WH,Shinglis,0,,,,,,,50,2021-04-27T17:50:24+00:00
+316745,IE-0004,small_airport,Dolly's Grove Airfield,53.422536,-6.546149,,EU,Ireland,IE,County Meath,IE-MH,MH,Staffordstown,0,,,,,,,50,2021-04-27T17:21:22+00:00
+333223,IE-0062,small_airport,Pallas West Airstrip,52.8601,-8.0498,,EU,Ireland,IE,County Tipperary,IE-TA,TA,Toomyvara,0,,,,,,,50,2020-02-09T09:56:21+00:00
+29226,EIMN,small_airport,Inishmaan Aerodrome,53.09299850463870,-9.568059921264650,15,EU,Ireland,IE,County Galway,IE-G,G,Inis Meáin,1,EIMN,IIA,,,,Aran Islands,150,2009-02-15T11:39:32+00:00
+321161,IE-0018,small_airport,Abbeyfeale Airfield,52.396374,-9.338401,300,EU,Ireland,IE,County Kerry,IE-KY,KY,Abbeyfeale,0,,,,,https://en.wikipedia.org/wiki/Abbeyfeale_Aerodrome,EIRE,50,2016-12-26T12:13:47+00:00
+43996,EIIH,small_airport,Abbeyleix Airfield,52.892223,-7.262778,614,EU,Ireland,IE,County Laois,IE-LS,LS,Abbeyleix,0,,,,,,Midland Microlight Centre,50,2021-04-27T17:36:38+00:00
+321275,IE-0023,small_airport,Ardfert Airstrip,52.34653,-9.76285,,EU,Ireland,IE,County Kerry,IE-KY,KY,Ardfert,0,,,,,,,50,2020-08-24T19:06:28+00:00
+321342,IE-0026,small_airport,Ballina Airfield,54.089209,-9.160676,,EU,Ireland,IE,County Mayo,IE-MO,MO,Ballina,0,,,,,,,50,2021-04-27T17:06:56+00:00
+321162,IE-0019,small_airport,Ballyjamesduff Airstrip,53.864439,-7.214957,,EU,Ireland,IE,County Cavan,IE-CN,CN,Ballyjamesduff,0,,,,,,,50,2021-04-27T17:19:44+00:00
+29214,EIBN,small_airport,Bantry Aerodrome,51.66859817504880,-9.484169960021970,7,EU,Ireland,IE,County Cork,IE-C,C,Bantry,0,EIBN,BYT,,,https://en.wikipedia.org/wiki/Bantry_Aerodrome,Beanntraí,50,2009-02-15T11:03:17+00:00
+29216,EIBT,small_airport,Belmullet Aerodrome,54.2228012085,-10.0307998657,150,EU,Ireland,IE,County Mayo,IE-MO,MO,Belmullet,0,EIBT,BLY,,,https://en.wikipedia.org/wiki/Belmullet_Aerodrome,Béal an Mhuirthead,50,2011-10-22T11:34:09+00:00
+321350,IE-0029,small_airport,Borris-in-Ossory Airstrip,52.92613,-7.65352,,EU,Ireland,IE,County Laois,IE-LS,LS,Borris-in-Ossory,0,,,,,,,50,2021-04-27T17:48:07+00:00
+316000,IE-0001,small_airport,Brittas House Airstrip,52.603908,-8.417588,,EU,Ireland,IE,County Tipperary,IE-TA,TA,Brittas,0,,,,,,,50,2021-04-27T17:12:00+00:00
+30993,EIBB,closed,Brittas Bay Airfield,52.858208,-6.06759,50,EU,Ireland,IE,County Wicklow,IE-WW,WW,Brittas Bay,0,EIBB,,,,,,50,2016-09-06T13:16:17+00:00
+321351,IE-0030,small_airport,Bunnyconnellan Airstrip,54.094487,-9.034681,,EU,Ireland,IE,County Mayo,IE-MO,MO,Bunnyconnellan,0,,,,,,,50,2021-04-27T17:02:41+00:00
+29217,EICB,closed,Castlebar Airport,53.8484,-9.28037,,EU,Ireland,IE,County Mayo,IE-MO,MO,Castlebar,0,EICB,CLB,,,,"CLB, EICB",50,2021-04-27T17:04:50+00:00
+30994,EICS,closed,Castleforbes Airport,53.778301,-7.83528,150,EU,Ireland,IE,County Longford,IE-LD,LD,Castleforbes,0,EICS,,,,,,50,2016-12-23T04:57:49+00:00
+333212,IE-0056,small_airport,Cregboy Airstrip,53.329,-8.9605,,EU,Ireland,IE,County Galway,IE-G,G,Cregboy,0,,,,,,,50,2021-04-27T17:17:25+00:00
+321598,IE-0039,small_airport,Crossmolina Airstrip,54.134279,-9.366467,,EU,Ireland,IE,County Mayo,IE-MO,MO,Crossmolina,0,,,,,,,50,2021-04-27T17:03:54+00:00
+322258,IE-0051,small_airport,Carrigart Airstrip,55.161563,-7.710258,,EU,Ireland,IE,County Donegal,IE-DL,DL,Devlinmore,0,,,,,,John Parke,50,2020-08-24T19:05:13+00:00
+320225,IE-0009,small_airport,Dowth Hall Airfield,53.709054,-6.438029,,EU,Ireland,IE,County Meath,IE-MH,MH,Dowth,0,,,,,,,50,2021-04-27T17:30:41+00:00
+321197,IE-0021,small_airport,Eniskeane Airfield,51.737526,-8.863843,98,EU,Ireland,IE,County Cork,IE-C,C,Eniskeane,0,,,,,,,50,2020-08-24T19:07:28+00:00
+343945,IE-0067,small_airport,Feohanagh Airstrip,52.387396,-8.973234,,EU,Ireland,IE,County Kerry,IE-KY,KY,Feohanagh,0,,,,,,,50,2021-10-29T10:45:01+00:00
+322003,IE-0047,small_airport,Fethard Airstrip,52.471738,-7.734409,,EU,Ireland,IE,County Tipperary,IE-TA,TA,Fethard,0,,,,,,,50,2017-01-29T03:51:36+00:00
+29902,EIGM,closed,Gormanstown Aerodrome,53.6348,-6.2277,69,EU,Ireland,IE,County Meath,IE-MH,MH,Gormanstown,0,EIGM,,,,https://en.wikipedia.org/wiki/Gormanston_Aerodrome,,50,2021-04-27T17:28:51+00:00
+321415,IE-0032,small_airport,Gowran Airstrip,52.64263,-7.12033,,EU,Ireland,IE,County Kilkenny,IE-KK,KK,Gowran,0,,,,,,Rathcast,50,2020-02-09T06:23:15+00:00
+321414,IE-0031,small_airport,Granard Airfield,53.74978,-7.53327,,EU,Ireland,IE,County Longford,IE-LD,LD,Granard,0,,,,,,,50,2016-12-06T04:52:16+00:00
+29220,EIHN,small_airport,Hacketstown Aerodrome,52.85499954223630,-6.547220230102540,610,EU,Ireland,IE,County Carlow,IE-CW,CW,Hacketstown,0,EIHN,,,,,Baile Haicéid,50,2009-02-15T10:58:27+00:00
+333219,IE-0059,small_airport,Kilbrook Airstrip,53.423,-6.7785,,EU,Ireland,IE,County Kildare,IE-KE,KE,Kilbrook,0,,,,,,,50,2021-04-27T17:23:06+00:00
+29224,EIKK,small_airport,Kilkenny Airport,52.65079879760740,-7.296110153198240,319,EU,Ireland,IE,County Kilkenny,IE-KK,KK,Kilkenny,0,EIKK,KKY,,http://www.kilkennyflying-glidingclub.com/,https://en.wikipedia.org/wiki/Kilkenny_Airport,EIKL,50,2009-02-15T22:00:05+00:00
+321314,IE-0024,small_airport,Killamaster Airstrip,52.866546,-6.810249,,EU,Ireland,IE,County Carlow,IE-CW,CW,Killamaster,0,,,,,,,50,2021-04-27T17:37:41+00:00
+30997,EIKI,closed,Killenaule Airfield,52.634261,-7.635262,680,EU,Ireland,IE,County Tipperary,IE-TA,TA,Killenaule,0,,,,,,EIKI,50,2021-01-11T05:33:53+00:00
+29223,EIKH,small_airport,Kildare Aerodrome,53.0635986328125,-6.855279922485350,260,EU,Ireland,IE,County Kildare,IE-KE,KE,Kilrush,0,EIKH,,,,,,50,2009-02-15T21:54:51+00:00
+29225,EILT,small_airport,Letterkenny Airfield,54.951302,-7.67283,20,EU,Ireland,IE,County Donegal,IE-DL,DL,Letterkenny,0,EILT,LTR,,,,,50,2020-02-09T08:18:28+00:00
+29219,EICN,small_airport,Coonagh Aerodrome,52.666500091552700,-8.681830406188970,6,EU,Ireland,IE,County Limerick,IE-LK,LK,Limerick,0,EICN,,,,,,50,2009-04-07T13:06:00+00:00
+321836,IE-0045,small_airport,Maganey Airstrip,52.898174,-6.928672,,EU,Ireland,IE,County Kildare,IE-KE,KE,Maganey Lower,0,,,,,,,50,2021-04-27T17:37:09+00:00
+322163,IE-0049,small_airport,Millicent Airfield,53.271783,-6.68574,,EU,Ireland,IE,County Kildare,IE-KE,KE,Millicent,0,,,,,,,50,2021-04-27T17:24:06+00:00
+322164,IE-0050,small_airport,Milltownpass Airfield,53.452082,-7.237543,,EU,Ireland,IE,County Westmeath,IE-WH,WH,Milltownpass,0,,,,,,,50,2021-04-27T17:32:38+00:00
+30998,EIMG,closed,Moneygall Aerodrome,52.849998,-7.983,450,EU,Ireland,IE,County Offaly,IE-OY,OY,Moneygall,0,EIMG,,,,,Muine Gall,50,2016-12-23T05:01:09+00:00
+321226,IE-0022,small_airport,Morriscastle Airstrip,52.516621,-6.26371,,EU,Ireland,IE,County Westmeath,IE-WH,WH,Morriscastle,0,,,,,,,50,2021-04-27T17:41:14+00:00
+333221,IE-0061,small_airport,Moyglare Airfield,53.4044,-6.6362,,EU,Ireland,IE,County Meath,IE-MH,MH,Moyglare,0,,,,,,Newtownmoyaghy UL,50,2021-04-27T17:22:15+00:00
+315675,EIHH,small_airport,Navan Airfield,53.695489,-6.654094,250,EU,Ireland,IE,County Meath,IE-MH,MH,Navan,0,EIHH,,,http://www.navanairfield.com/,,,50,2016-12-26T18:24:09+00:00
+43999,EIER,small_airport,Erinagh Airfield,52.8125,-8.282222,155,EU,Ireland,IE,County Tipperary,IE-TA,TA,Nenagh,0,EIER,,,,,,50,2021-01-11T05:32:05+00:00
+29228,EINC,small_airport,Newcastle Aerodrome,53.07109832763670,-6.0452799797058100,1,EU,Ireland,IE,County Wicklow,IE-WW,WW,Newcastle,0,EINC,,,,,,50,2009-02-15T22:14:26+00:00
+30999,EIPT,closed,Powerscourt Airfield,53.178301,-6.196495,470,EU,Ireland,IE,County Wicklow,IE-WW,WW,Powerscourt,0,EIPT,,,,,,50,2019-09-11T11:14:13+00:00
+29229,EIRT,small_airport,Rathcoole Aerodrome,52.10559844970700,-8.983329772949220,281,EU,Ireland,IE,County Cork,IE-C,C,Rathcoole,0,EIRT,,,,,,50,2009-02-15T11:07:39+00:00
+29230,EISP,small_airport,Spanish Point Airfield,52.845839,-9.414876,75,EU,Ireland,IE,County Clare,IE-CE,CE,Spanish Point,0,EISP,,,,,,50,2021-10-29T10:47:27+00:00
+321482,IE-0033,small_airport,Stradbally Airstrip,53.04556,-7.163937,,EU,Ireland,IE,County Laois,IE-LS,LS,Stradbally,0,,,,,,,50,2021-04-27T17:35:52+00:00
+29906,EIGN,small_airport,Gowran Grange Aerodrome,53.1786003112793,-6.635280132293700,489,EU,Ireland,IE,County Kildare,IE-KE,KE,Swordlestown,0,EIGN,,,,,,50,2009-02-15T21:52:38+00:00
+320368,IE-0010,small_airport,ILAS Wexford Airfield,52.2981,-6.68194,125,EU,Ireland,IE,County Wexford,IE-WX,WX,Taghmon,0,,,,,,"Irish Light Aviation Society, Taghmon",50,2021-04-27T17:44:29+00:00
+29227,EIMY,closed,Moyne Aerodrome,52.703098,-7.70528,400,EU,Ireland,IE,County Tipperary,IE-TA,TA,Thurles,0,EIMY,,,,https://en.wikipedia.org/wiki/Moyne_Aerodrome,Áth na nUrlainn,50,2019-09-11T11:07:00+00:00
+321181,IE-0020,small_airport,Tibohine Airfield,53.884757,-8.488176,,EU,Ireland,IE,County Roscommon,IE-RN,RN,Tibohine,0,,,,,,,50,2021-04-27T17:05:50+00:00
+29231,EITM,small_airport,Trim Aerodrome,53.5746994019,-6.7386097908,200,EU,Ireland,IE,County Meath,IE-MH,MH,Trim,0,EITM,,,,https://en.wikipedia.org/wiki/Trim_Aerodrome,,50,2012-11-18T04:34:45+00:00
+321541,IE-0036,small_airport,Spollens Airstrip,53.29345,-7.53085,,EU,Ireland,IE,County Offaly,IE-OY,OY,Tullamore,0,,,,,,Silverbrook Airfield,50,2021-04-27T17:49:53+00:00
+341233,IE-0064,heliport,Tory Island Helistrip,55.26521,-8.23405,,EU,Ireland,IE,County Donegal,IE-DL,DL,,0,,,,,,,0,2021-02-20T04:47:18+00:00
+312096,EIFR,heliport,Finner Camp Heliport,54.49273,-8.24091,107,EU,Ireland,IE,County Donegal,IE-DL,DL,Ballyshannon,0,EIFR,,,,,,0,2014-06-03T03:46:19+00:00
+43995,IE-0002,closed,Reeroe Airport,51.933334,-10.233333,314,EU,Ireland,IE,County Kerry,IE-KY,KY,Caherciveen,0,,,,,,,0,2019-01-07T06:13:56+00:00
+333217,IE-0058,heliport,Citywest Heliport,53.2856,-6.4456,,EU,Ireland,IE,County Dublin,IE-D,D,Dublin,0,,,,,,,0,2021-04-27T17:24:54+00:00
+43998,EITT,closed,Trevet Airfield,53.543611,-6.531944,385,EU,Ireland,IE,County Meath,IE-MH,MH,Dunshaughlin,0,EITT,,,http://www.trevetairfield.com/,,,0,2017-03-28T13:34:14+00:00
+333197,IE-0055,heliport,Knocksedan Heliport,53.4543,-6.2656,,EU,Ireland,IE,County Dublin,IE-D,D,"Knocksedan, Dublin",0,,,,https://irishhelicopters.com,,,0,2020-02-08T02:32:10+00:00
+317525,IE-0006,closed,Clifden Alcock & Brown Airport,53.54106,-10.08394,,EU,Ireland,IE,County Galway,IE-G,G,Laghtanabba,0,EICD,,,,https://en.wikipedia.org/wiki/Clifden#Airport,,0,2021-04-27T17:09:11+00:00
+308317,IE-0003,closed,Mallow International Airport,52.131802,-8.68804,,EU,Ireland,IE,County Cork,IE-C,C,Mallow,0,,,,,,,0,2016-02-06T15:58:57+00:00
+317526,IE-0007,closed,Inishbofin Airfield,53.6196,-10.21085,,EU,Ireland,IE,County Galway,IE-G,G,Middlequarter,0,,,,,,,0,2021-04-27T17:08:40+00:00
+321626,EIMS,seaplane_base,Mountshannon Seaplane Base,52.9305,-8.4245,103,EU,Ireland,IE,County Clare,IE-CE,CE,Mountshannon,0,EIMS,,,http://www.harbourflights.com,,,0,2016-12-28T08:37:26+00:00
+343905,IE-0066,heliport,Skellig Michael Heliport,51.77029,-10.53799,,EU,Ireland,IE,County Kerry,IE-KY,KY,Portmagee,0,,,,,,,0,2021-10-29T10:41:17+00:00
+44000,EICD,closed,Castlebridge Airport,52.369131,-6.451021,79,EU,Ireland,IE,County Wexford,IE-WX,WX,Wexford,0,,,,,,"WEX, EICD",0,2018-09-13T03:08:42+00:00
